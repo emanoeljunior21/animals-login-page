@@ -1,6 +1,6 @@
 # 🌳 Animais - Tela de Login  
 
-Um **formulário de login estilizado e responsivo** com tema voltado para a **Amazônia** 🌱.  
+Um **formulário de login estilizado e responsivo** com tema voltado para a **Floresta** 🌱.  
 Desenvolvido com **HTML, CSS e JavaScript**, o projeto traz um design elegante com efeito de **vidro fosco (glassmorphism)**, interação com os campos e recurso para **mostrar/ocultar senha**.  
 
 ![Preview do Login](./assets/animation.gif)  
